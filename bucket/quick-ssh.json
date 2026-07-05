@@ -6,7 +6,7 @@
 
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CCE-Li/Quick-SSH/releases/download/v#/version#/qssh-x86_64-windows.zip",
+            "url": "https://github.com/CCE-Li/Quick-SSH/releases/download/v2.0.1/qssh-x86_64-windows.zip",
             "hash": "sha256:5a8c94366097215c425153f1f6268d8b33f337d1577fc1881b3c5fb47143f043"
         }
     },
@@ -23,9 +23,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/CCE-Li/Quick-SSH/releases/download/v#/version#/qssh-x86_64-windows.zip",
+                "url": "https://github.com/CCE-Li/Quick-SSH/releases/download/v2.0.1/qssh-x86_64-windows.zip",
                 "hash": {
-                    "url": "https://github.com/CCE-Li/Quick-SSH/releases/download/v#/version#/qssh-x86_64-windows.zip.sha256"
+                    "url": "https://github.com/CCE-Li/Quick-SSH/releases/download/v2.0.1/qssh-x86_64-windows.zip.sha256"
                 }
             }
         }
